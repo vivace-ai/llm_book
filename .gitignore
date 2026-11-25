@@ -1,0 +1,13 @@
+.env
+.DS_Store
+*.txt
+*.bz2
+*.jsonl
+*.pt
+*.safetensors
+*.pdf
+*.png
+data/
+run/
+__pycache__/
+.ipynb_checkpoints/

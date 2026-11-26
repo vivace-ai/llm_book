@@ -57,7 +57,7 @@ transformers 4.57.6은 tokenizers 0.23.0 이하를 요구하므로 9장부터는
 
 | 장 | 자료 | 받는 곳 |
 |---|---|---|
-| 1~4, 9~12, 15, 16 | NSMC `ratings_train.txt` (4장부터는 `ratings_test.txt`도) | [e9t/nsmc](https://github.com/e9t/nsmc) (CC0 1.0) |
+| 1\~4, 9\~12, 15, 16 | NSMC `ratings_train.txt` (4장부터는 `ratings_test.txt`도) | [e9t/nsmc](https://github.com/e9t/nsmc) (CC0 1.0) |
 | 4~8 | 한국어 위키백과 덤프 첫 조각 `kowiki-latest-pages-articles1.xml-p1p82407.bz2` (94MB, 책은 2026년 11월 1일 덤프) | [dumps.wikimedia.org/kowiki](https://dumps.wikimedia.org/kowiki/latest/) (CC BY-SA 4.0) |
 | 13, 14 | KoBEST `copa/test.jsonl`, `hellaswag/test.jsonl` → `data/kobest/` | [skt/kobest_v1](https://huggingface.co/datasets/skt/kobest_v1) (CC BY-SA 4.0) |
 
